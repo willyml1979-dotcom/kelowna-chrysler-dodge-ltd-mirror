@@ -1,6 +1,6 @@
 # Kelowna Chrysler Dodge Ltd.
 
- dealership in Kelowna. AI-readable inventory mirror, about 151 vehicles.
+ dealership in Kelowna. AI-readable inventory mirror, about 147 vehicles.
 
 - Official website: https://www.kelownachrysler.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/
