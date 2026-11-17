@@ -1,296 +1,195 @@
 {
   "dealership": "Kelowna Chrysler Dodge Ltd",
-  "generated_at": "2026-10-26T04:43:24",
-  "vehicle_count": 145,
+  "generated_at": "2026-11-16T23:11:44",
+  "vehicle_count": 151,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2024 Dodge Hornet R/T PHEV EAWD | 1.3L TURBO | 28B PKG | TECH PACK | R/T BLACKTOP PKG | 360 CAMERA | BLIND SPOT + MOREin Kelowna",
-      "vin": "ZACPDFCW1R3A36476",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/5053b242ad10.html",
-      "condition": "new",
-      "price": 37999.0,
+      "name": "Ford F-150 2013 for salein Kelowna",
+      "vin": "1FTFW1ET9DKF28809",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/dcc2f51765a8.html",
+      "condition": "used",
+      "price": 19995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2024 Dodge Hornet R/T PHEV EAWD | 1.3L TURBO | 28B PKG | TECH PACK | R/T BLACKTOP PKG | 360 CAMERA | BLIND SPOT + MOREin Kelowna",
-      "vin": "ZACPDFCW9R3A36497",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/b678430cbca0.html",
-      "condition": "new",
-      "price": 37999.0,
+      "name": "Chevrolet Corvette 2014 for salein Kelowna",
+      "vin": "1G1YM2D78E5105026",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/2d025dc99f14.html",
+      "condition": "used",
+      "price": 52995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2024 Dodge Hornet R/T PHEV EAWD | 1.3L TURBO | 28B PKG | TECH PACK | R/T BLACKTOP PKG | 360 CAMERA | BLIND SPOT + MOREin Kelowna",
-      "vin": "ZACPDFCWXR3A35505",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/ba90f9adf576.html",
-      "condition": "new",
-      "price": 38499.0,
+      "name": "RAM 3500 2019 for salein Kelowna",
+      "vin": "3C63R3EL3KG694888",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/82a965508424.html",
+      "condition": "used",
+      "price": 56995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2024 Dodge Hornet Hybrid R/T PHEV EAWD | 1.3L TURBO | 28B PKG | TECH PACK | 360 CAMERA | R/T BLACKTOP PKG + MORE!in Kelowna",
-      "vin": "ZACPDFCW4R3A36519",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/d84af5cf803a.html",
-      "condition": "new",
-      "price": 37499.0,
+      "name": "Nissan Kicks 2020 for salein Kelowna",
+      "vin": "3N1CP5DV4LL541395",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/a0a10e5abef8.html",
+      "condition": "used",
+      "price": 17995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Chrysler Grand Caravan SXT | 3.6L Pentastar V6 | 27E PKG | MOPAR INTERIOR PROTECTION PKG | 10 INCH DISPLAY | BLIND SPOTin Kelowna",
-      "vin": "2C4RC1ZG0TR163892",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/99f932d975ba.html",
-      "condition": "new",
-      "price": 49485.0,
+      "name": "Audi Q5 2021 for salein Kelowna",
+      "vin": "WA1AAAFY9M2003214",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/1ca7b9ed75e3.html",
+      "condition": "used",
+      "price": 28995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Dodge Durango SXT | 3.6L Pentastar V6 | 2BK PKG | BLACKTOP PKG | POWER SUNROOF | BLIND SPOT | NAVIGATION + MORE!in Kelowna",
-      "vin": "1C4RDJDG9TC272459",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/f3757114eca0.html",
-      "condition": "new",
-      "price": 55530.0,
+      "name": "Hyundai Palisade 2021 for salein Kelowna",
+      "vin": "KM8R3DHE6MU229749",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/ac0e94d5687f.html",
+      "condition": "used",
+      "price": 29995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee Limited | 1.6L Turbo Hybrid | 23G PKG | TECH PKG | PANORAMIC SUNROOF | NAV | CAPRI LEATHERETTE SEATSin Kelowna",
-      "vin": "3C4PJMB23TT191017",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/1e411da049c9.html",
-      "condition": "new",
-      "price": 56893.0,
+      "name": "Ford F-150 2023 for salein Kelowna",
+      "vin": "1FTEW1EP4PFC97961",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/660f1079b774.html",
+      "condition": "used",
+      "price": 53870.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee Limited | 1.6L Turbo Hybrid | 23G PKG | TRAILER TOW PKG | LEATHERETTE SEATS | POWER LIFTGATE + MORE!in Kelowna",
-      "vin": "3C4PJMB20TT228153",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/3f92f51ae4fe.html",
-      "condition": "new",
-      "price": 56380.0,
+      "name": "Jeep Compass 2023 for salein Kelowna",
+      "vin": "3C4NJDBN8PT536632",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/0762e0e0e039.html",
+      "condition": "used",
+      "price": 22995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee Laredo | 1.6L TURBO HYBRID | 23F PKG | 10.25 INCH DISPLAY | BLIND SPOT & CROSS PATH DETECTION + MOREin Kelowna",
-      "vin": "3C4PJMB29TT216132",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/a325217c2011.html",
-      "condition": "new",
-      "price": 48180.0,
+      "name": "Jeep Grand Cherokee 4xe 2023 for salein Kelowna",
+      "vin": "1C4RJYE6XP8784120",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/090586316bc7.html",
+      "condition": "used",
+      "price": 49980.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee 85th Anniversary Edition | 1.6L Turbo Hybrid | 23J PKG | TRAILER TOW PKG | PANORAMIC SUNROOF + MORE!in Kelowna",
-      "vin": "3C4PJMB27TT257262",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/8bb8e5667d16.html",
-      "condition": "new",
-      "price": 56751.0,
+      "name": "Dodge Durango 2024 for salein Kelowna",
+      "vin": "1C4SDJCT4RC150004",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/613e0ebe23af.html",
+      "condition": "used",
+      "price": 44190.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee 85th Anniversary Edition | 1.6L Turbo Hybrid | 23J PKG | TRAILER TOW PKG | PANORAMIC SUNROOF + MORE!in Kelowna",
-      "vin": "3C4PJMB25TT262671",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/c4221e28cb25.html",
-      "condition": "new",
-      "price": 55952.0,
+      "name": "Ford Bronco Sport 2024 for salein Kelowna",
+      "vin": "3FMCR9C69RRE58104",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/78eddb5de82e.html",
+      "condition": "used",
+      "price": 32870.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee Laredo | 1.6L Turbo Hybrid | 23F PKG | 10.25 INCH DISPLAY | BLIND SPOT & CROSS PATH DETECTION + MOREin Kelowna",
-      "vin": "3C4PJMB29TT273513",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/2afbd84b7c5f.html",
-      "condition": "new",
-      "price": 47122.0,
+      "name": "Jeep Grand Cherokee 2024 for salein Kelowna",
+      "vin": "1C4RJHBG2RC205313",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/87391bc1b8fd.html",
+      "condition": "used",
+      "price": 42680.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee Laredo | 1.6L Turbo Hybrid | 23F PKG | 10.25 INCH DISPLAY | BLIND SPOT | RAIN SENSING WIPERS + MORE!in Kelowna",
-      "vin": "3C4PJMB27TT273512",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/76ee7b5adc9b.html",
-      "condition": "new",
-      "price": 47122.0,
+      "name": "Jeep Wrangler 4xe 2024 for salein Kelowna",
+      "vin": "1C4RJXP63RW112230",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/a09360b25b49.html",
+      "condition": "used",
+      "price": 44845.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee Limited | 1.6L Turbo Hybrid | 23G PKG | DUAL-PANE PANO SUNROOF | WIRELESS CHARGING PAD | LEATHERETTEin Kelowna",
-      "vin": "3C4PJMB21TT262344",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/0aa302fce5ef.html",
-      "condition": "new",
-      "price": 53402.0,
+      "name": "RAM ProMaster Cargo Van 2024 for salein Kelowna",
+      "vin": "3C6MRVJG6RE117853",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/4d5c0aaa6b53.html",
+      "condition": "used",
+      "price": 45995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee 85th Anniversary | 1.6L Turbo Hybrid | 23J | TRAILER TOW PKG | DUAL-PANE PANO SUNROOF | NAV + MORE!in Kelowna",
-      "vin": "3C4PJMB23TT262670",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/300abfc49188.html",
-      "condition": "new",
-      "price": 56498.0,
+      "name": "Toyota GR Corolla 2024 for salein Kelowna",
+      "vin": "JTNABAAE1RA009503",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/985297342201.html",
+      "condition": "used",
+      "price": 47980.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee Limited | 1.6L Turbo Hybrid | 23G PKG | DUAL-PANE PANO SUNROOF | LEATHERETTE | WIRELESS CHARGING PADin Kelowna",
-      "vin": "3C4PJMB2XTT262343",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/9aad37e7a0dd.html",
-      "condition": "new",
-      "price": 52956.0,
+      "name": "Chevrolet Silverado 1500 2025 for salein Kelowna",
+      "vin": "3GCUKHEL5SG331197",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/c121163def44.html",
+      "condition": "used",
+      "price": 69770.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee Laredo | 1.6L EP Turbo Hybrid | 23F PKGin Kelowna",
-      "vin": "3C4PJMB27TT269217",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/5bf82ae505d0.html",
-      "condition": "new",
-      "price": 46717.0,
+      "name": "Chrysler Pacifica 2025 for salein Kelowna",
+      "vin": "2C4RC1GGXSR533005",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/80116b17ada9.html",
+      "condition": "used",
+      "price": 38870.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee Laredo | 1.6L EP Turbo Hybrid | 23F PKG | BLIND SPOT | LANE KEEP ASSIST | TOUCH SCREEN + MORE!in Kelowna",
-      "vin": "3C4PJMB29TT269218",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/3c51f25516e9.html",
-      "condition": "new",
-      "price": 47112.0,
+      "name": "Dodge Durango 2025 for salein Kelowna",
+      "vin": "1C4SDJCT6SC512209",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/b90374ce6e89.html",
+      "condition": "used",
+      "price": 44280.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee Overland | 1.6L EP Turbo Hybrid | 23Q | ADVANCED PRO TECH PKG | TRAILER TOW PKG | 360 CAMERA + MORE!in Kelowna",
-      "vin": "3C4PJMC26TT262340",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/8db8d68f6bf5.html",
-      "condition": "new",
-      "price": 58658.0,
+      "name": "Ford F-150 2025 for salein Kelowna",
+      "vin": "1FTFW6L83SFB16130",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/aeff00f820c8.html",
+      "condition": "used",
+      "price": 83880.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee 85th Anniversary Edition | 1.6L EP Turbo Hybrid | 23J | TRAILER TOW PKG | PANORAMIC SUNROOF + MORE!in Kelowna",
-      "vin": "3C4PJMB27TT262672",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/d9116ad7a961.html",
-      "condition": "new",
-      "price": 58375.0,
+      "name": "Kia Sportage 2025 for salein Kelowna",
+      "vin": "KNDPUCDF8S7385661",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/bdfb3075f886.html",
+      "condition": "used",
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Cherokee 4X4 | 1.6L EP Turbo Hybrid | 23L PKGin Kelowna",
-      "vin": "3C4PJMA2XTT204931",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/e888086490ba.html",
-      "condition": "new",
-      "price": 42385.0,
+      "name": "Jeep Compass 2026 for salein Kelowna",
+      "vin": "3C4NJDBN8TT153333",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/3d04fc2bc78e.html",
+      "condition": "used",
+      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Compass North | 2.0L Turbocharged | 29J PKG | ALTITUDE SPECIAL EDITION | 10 INCH DISPLAY | BLIND SPOT + MOREin Kelowna",
-      "vin": "3C4NJDBN6TT202495",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/7a60b8953301.html",
-      "condition": "new",
-      "price": 47385.0,
+      "name": "RAM 1500 2026 for salein Kelowna",
+      "vin": "1C6SRFKP7TN297990",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/eb8c346a121f.html",
+      "condition": "used",
+      "price": 92995.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Jeep Compass North | 2.0L Turbocharged | 29J PKG | ALTITUDE SPECIAL EDITION | SUN & SOUND PKG | CONVENIENCE PKGin Kelowna",
-      "vin": "3C4NJDBNXTT212771",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/a5df47ceb739.html",
-      "condition": "new",
-      "price": 51776.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Compass Trailhawk | 2.0L Turbocharged | 29E PKG | SUN/SOUND/NAV PKG | DRIVER ASSIST PKG | TRAILER TOW PKGin Kelowna",
-      "vin": "3C4NJDDN1TT208816",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/3389edc69a6f.html",
-      "condition": "new",
-      "price": 53739.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Compass North | 2.0L Turbocharged | 29J PKG | ALTITUDE SPECIAL EDITION | SUN & SOUND PKG | CONVENIENCE PKGin Kelowna",
-      "vin": "3C4NJDBN1TT212772",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/7b0b6ac9fb21.html",
-      "condition": "new",
-      "price": 50925.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Compass Limited | 2.0L TURBOCHARGED | 29T PKG | DRIVER ASSIST PKG | SUN/SOUND/NAV PKG | PANO SUNROOF + MORE!in Kelowna",
-      "vin": "3C4NJDCN8TT212766",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/3017194d92f5.html",
-      "condition": "new",
-      "price": 46080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Compass North 4X4 | 2.0L TURBOCHARGED | 29J | ALTITUDE SPECIAL EDITION | CONVENIENCE PKG | NAV + MORE!in Kelowna",
-      "vin": "3C4NJDBNXTT212768",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/725489ccb085.html",
-      "condition": "new",
-      "price": 43046.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Gladiator Sport S | 3.6L Pentastar V6 | 24S PKG | BLACK FREEDOM 3 PIECE HARDTOP | 12 INCH DISPLAY + MORE!in Kelowna",
-      "vin": "1C6PJTAG5TL184323",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/46d588f98701.html",
-      "condition": "new",
-      "price": 53651.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Gladiator Sport S | 3.6L Pentastar V6 | 24S PKG | BLACK FREEDOM 3 PIECE HARDTOP | 12 INCH DISPLAY + MORE!in Kelowna",
-      "vin": "1C6PJTAG8TL154801",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/6eece00c6745.html",
-      "condition": "new",
-      "price": 54144.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Grand Cherokee Laredo | 3.6L Pentastar V6 | 8.4 INCH TOUCHSCREEN | BLIND SPOT W/ REAR CROSS PATH DETECTION + MORE!in Kelowna",
-      "vin": "1C4RJHAG5TC274022",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/692ea0e84901.html",
-      "condition": "new",
-      "price": 57135.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Wrangler Sport 4X4 | 2.0L TURBOCHARGED | 22B PKG | 8 SPEED AUTO TRANSMISSION | NON VENTED STEEL HOOD + MORE!in Kelowna",
-      "vin": "1C4PJXAN3TW228705",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/9473f56fd0b4.html",
-      "condition": "new",
-      "price": 39010.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Wrangler Sport 4X4 | 2.0L TURBOCHARGED | 22B PKG | 8 SPEED AUTO TRANSMISSION | BLACK FREEDOM HARD TOP + MORE!in Kelowna",
-      "vin": "1C4PJXAN3TW289892",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/6cc2a569ee01.html",
-      "condition": "new",
-      "price": 47080.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Wrangler Sport S | 3.6L Pentastar V6 | 23S PKG | TECH PKG | CONVENIENCE PKG | FREEDOM HARDTOP | LED LIGHTSin Kelowna",
-      "vin": "1C4PJXAGXTW291236",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/0cb9ee948c06.html",
-      "condition": "new",
-      "price": 52112.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Jeep Wrangler Sport S | 3.6L Pentastar V6 | 23S PKG | TRAILER TOW PKG | CONVENIENCE PKG | SAFETY PKG | HARDTOPin Kelowna",
-      "vin": "1C4PJXAG9TW291552",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/a24a393aac93.html",
-      "condition": "new",
-      "price": 54723.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Chrysler Pacifica Select | 3.6L Pentastar V6 | 27L PKG | LEATHERETTE SEATS | TOUCHSCREEN | BLIND SPOT + MORE!in Kelowna",
-      "vin": "2C4RC1BG7VR551621",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/e65bea8deda9.html",
-      "condition": "new",
-      "price": 52496.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Chrysler Pacifica Selectin Kelowna",
-      "vin": "2C4RC3BG6VR622352",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/ade082846e46.html",
-      "condition": "new",
-      "price": 58590.0,
+      "name": "2014 Chevrolet Corvette Z51in Kelowna",
+      "vin": "1G1YM2D78E5105026",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/d15880c166dc.html",
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "condition": "used",
+      "price": 52995.0,
       "price_currency": "CAD"
     },
     {
@@ -305,17 +204,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Jeep Compass ",
-      "vin": "3C4NJDBB9JT493271",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/158300907143.html",
-      "year": 2018,
-      "make": "Jeep",
-      "model": "Compass",
-      "condition": "used",
-      "price": 16995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Jeep Grand Cherokee ",
       "vin": "1C4RJFAG2JC406896",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/e0e6734b5aa6.html",
@@ -327,17 +215,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Toyota Tacoma ",
-      "vin": "5TFRX5GN6JX129595",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/e6a6860dfb5c.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 34995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 BMW X5 Xdrive50i | M SPORT APPEARANCE PKG | NAVIGATION | PANO SUNROOF | HEATED/COOLED CUP HOLDERS + MORE!in Kelowna",
       "vin": "5UXJU2C53KLN66701",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/4c80e6b3aec3.html",
@@ -345,7 +222,7 @@
       "make": "BMW",
       "model": "X5",
       "condition": "used",
-      "price": 42995.0,
+      "price": 43995.0,
       "price_currency": "CAD"
     },
     {
@@ -371,28 +248,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Jeep Grand Cherokee SRTin Kelowna",
-      "vin": "1C4RJFDJ0KC737372",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/10c059f8bb25.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 64995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Grand Cherokee ",
-      "vin": "1C4RJFDJ0KC737372",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/bb55c50eaf3b.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 64995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Jeep Wrangler ",
       "vin": "1C4HJXDG0KW633713",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/a15e05297b04.html",
@@ -401,6 +256,17 @@
       "model": "Wrangler",
       "condition": "used",
       "price": 27995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 RAM 3500 Laramiein Kelowna",
+      "vin": "3C63R3EL3KG694888",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/19853c8963a8.html",
+      "year": 2019,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "used",
+      "price": 56995.0,
       "price_currency": "CAD"
     },
     {
@@ -445,17 +311,6 @@
       "model": "1500 Classic",
       "condition": "used",
       "price": 35995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Chrysler 300 ",
-      "vin": "2C3CCAGG2MH602899",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/0594bdfe7ff4.html",
-      "year": 2021,
-      "make": "Chrysler",
-      "model": "300",
-      "condition": "used",
-      "price": 25895.0,
       "price_currency": "CAD"
     },
     {
@@ -547,17 +402,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 Rebel | 25W PKG | NIGHT EDITION | LEVEL 1 EQUIPMENT PKG | NAVIGATION | 9 ALPINE SPEAKERS + MORE!in Kelowna",
-      "vin": "1C6SRFLT5NN396712",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/1db94972ff43.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 44995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 RAM 1500 ",
       "vin": "1C6SRFHT6NN160613",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/a79aa825f931.html",
@@ -613,6 +457,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Ford F-150 LARIAT |POWER RUNNING BOARDS | TWIN PANEL MOONROOF | 360 CAMERA | KEYPAD ENTRY | TRAILER TOW + MORE!in Kelowna",
+      "vin": "1FTEW1EP4PFC97961",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/5376e20c1f98.html",
+      "year": 2023,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 53870.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Hyundai Venue ",
       "vin": "KMHRC8A38PU230857",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/2f7e2c64711c.html",
@@ -624,6 +479,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Jeep Grand Cherokee 4xe Summit Reservein Kelowna",
+      "vin": "1C4RJYE6XP8784120",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/f02aa4c3acf6.html",
+      "year": 2023,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "price": 49980.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Mitsubishi Outlander PHEV ",
       "vin": "JA4T5VA97PZ619557",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/114695c1ac6e.html",
@@ -632,28 +498,6 @@
       "model": "Outlander PHEV",
       "condition": "used",
       "price": 38995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 RAM 1500 Sport GT | 5.7L HEMI | G/T PKG | REBEL LEVEL 2 PKG | SIDE STEPS | CLASS IV HITCH RECEIVER + MORE!in Kelowna",
-      "vin": "1C6SRFVTXPN523292",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/f06dc483eda5.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 46895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 RAM 1500 ",
-      "vin": "1C6SRFVTXPN523292",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/3853bbc992eb.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 46895.0,
       "price_currency": "CAD"
     },
     {
@@ -723,25 +567,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Dodge Durango R/Tin Kelowna",
+      "name": "2024 Dodge Durango R/T | PREFERRED PACKAGE 22T | POWER LIFTGATE | 7 PASSENGER | REMOTE START | SUNROOF | + MORE!in Kelowna",
       "vin": "1C4SDJCT4RC150004",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/7c762c910042.html",
       "year": 2024,
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 43995.0,
+      "price": 44190.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Dodge Durango ",
-      "vin": "1C4SDJCT4RC150004",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/613e0ebe23af.html",
+      "name": "New 2024 Dodge Hornet R/T PHEV EAWD | 1.3L TURBO | 28B PKG | TECH PACK | R/T BLACKTOP PKG | 360 CAMERA | BLIND SPOT + MOREin Kelowna",
+      "vin": "ZACPDFCW1R3A36476",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/5053b242ad10.html",
       "year": 2024,
       "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 43995.0,
+      "model": "Hornet",
+      "condition": "new",
+      "price": 37999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2024 Dodge Hornet R/T PHEV EAWD | 1.3L TURBO | 28B PKG | TECH PACK | R/T BLACKTOP PKG | 360 CAMERA | BLIND SPOT + MOREin Kelowna",
+      "vin": "ZACPDFCW9R3A36497",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/b678430cbca0.html",
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Hornet",
+      "condition": "new",
+      "price": 37999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2024 Dodge Hornet R/T PHEV EAWD | 1.3L TURBO | 28B PKG | TECH PACK | R/T BLACKTOP PKG | 360 CAMERA | BLIND SPOT + MOREin Kelowna",
+      "vin": "ZACPDFCWXR3A35505",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/ba90f9adf576.html",
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Hornet",
+      "condition": "new",
+      "price": 38499.0,
       "price_currency": "CAD"
     },
     {
@@ -753,6 +619,17 @@
       "model": "Hornet",
       "condition": "new",
       "price": 37999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2024 Dodge Hornet Hybrid R/T PHEV EAWD | 1.3L TURBO | 28B PKG | TECH PACK | 360 CAMERA | R/T BLACKTOP PKG + MORE!in Kelowna",
+      "vin": "ZACPDFCW4R3A36519",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/d84af5cf803a.html",
+      "year": 2024,
+      "make": "Dodge",
+      "model": "Hornet Hybrid",
+      "condition": "new",
+      "price": 37499.0,
       "price_currency": "CAD"
     },
     {
@@ -800,47 +677,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Grand Cherokee Limitedin Kelowna",
-      "vin": "1C4RJHBG2RC205313",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/82038ee45936.html",
+      "name": "2024 Jeep Wrangler 4xe Sahara | PREMIUM LEATHER SEATS | PREFERRED PACKAGE 29P | MODULAR HARDTOP | TRAILER TOW GROUP + MORE!in Kelowna",
+      "vin": "1C4RJXP63RW112230",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/87956c18dbb4.html",
       "year": 2024,
       "make": "Jeep",
-      "model": "Grand Cherokee",
+      "model": "Wrangler",
       "condition": "used",
-      "price": 42995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Grand Cherokee ",
-      "vin": "1C4RJHBG2RC205313",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/87391bc1b8fd.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 42995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Grand Cherokee L Limitedin Kelowna",
-      "vin": "1C4RJKBG2R8577587",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/e0557caaea2b.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Grand Cherokee L",
-      "condition": "used",
-      "price": 42998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Grand Cherokee L ",
-      "vin": "1C4RJKBG2R8577587",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/4aac5be023a6.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Grand Cherokee L",
-      "condition": "used",
-      "price": 42998.0,
+      "price": 44845.0,
       "price_currency": "CAD"
     },
     {
@@ -862,57 +706,13 @@
       "make": "Land",
       "model": "Rover Land Rover Discovery Dynamic Se",
       "condition": "used",
-      "price": 65895.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 1500 Laramie | 5.7L HEMI | 27H PKG | NIGHT EDITION | LEVEL B PKG | PANORAMIC SUNROOF + MORE!in Kelowna",
-      "vin": "1C6SRFJT3RN184450",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/9f459284fbf8.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 64888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 1500 Sportin Kelowna",
-      "vin": "1C6SRFVT7RN143460",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/d6cc72a922db.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 51995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 1500 ",
-      "vin": "1C6SRFJT3RN184450",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/ce28c76faa67.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 64888.0,
+      "price": 63995.0,
       "price_currency": "CAD"
     },
     {
       "name": "2024 RAM ProMaster Cargo Van CV 159\" WB HIGH ROOF | 3.6L PENTASTAR V6 | 22B PKG | CONVENIENCE PKG | BACKUP CAM | 7\" SCREEN + MOREin Kelowna",
       "vin": "3C6MRVJG6RE117853",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/b52714447188.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "used",
-      "price": 46888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM ProMaster Cargo Van ",
-      "vin": "3C6MRVJG6RE117853",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/4d5c0aaa6b53.html",
       "year": 2024,
       "make": "RAM",
       "model": "ProMaster",
@@ -939,40 +739,7 @@
       "make": "Toyota",
       "model": "GR Corolla",
       "condition": "used",
-      "price": 48888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota GR Corolla ",
-      "vin": "JTNABAAE1RA009503",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/985297342201.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "GR Corolla",
-      "condition": "used",
-      "price": 48888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Cadillac Escalade Sport Touring | FULLY LOADED | AUTO DOORS | 7 SEATER | 360 CAMERA | PANORAMIC ROODF + MORE!in Kelowna",
-      "vin": "1GYS9FRLXSR398339",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/b1de3a73dfbb.html",
-      "year": 2025,
-      "make": "Cadillac",
-      "model": "Escalade",
-      "condition": "used",
-      "price": 146995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Cadillac Escalade ",
-      "vin": "1GYS9FRLXSR398339",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/620df3045075.html",
-      "year": 2025,
-      "make": "Cadillac",
-      "model": "Escalade",
-      "condition": "used",
-      "price": 146995.0,
+      "price": 47980.0,
       "price_currency": "CAD"
     },
     {
@@ -983,18 +750,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 70995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chevrolet Silverado 1500 ",
-      "vin": "3GCUKHEL5SG331197",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/c121163def44.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 70995.0,
+      "price": 69770.0,
       "price_currency": "CAD"
     },
     {
@@ -1020,14 +776,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chrysler Pacifica ",
-      "vin": "2C4RC1GGXSR533005",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/80116b17ada9.html",
+      "name": "2025 Dodge Durango R/T | PREFERRED PACKAGE 22T | POWER LIFTGATE | REMOTE START | BLIND SPOT DETECTION + MORE!in Kelowna",
+      "vin": "1C4SDJCT6SC512209",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/252615b2c804.html",
       "year": 2025,
-      "make": "Chrysler",
-      "model": "Pacifica",
+      "make": "Dodge",
+      "model": "Durango",
       "condition": "used",
-      "price": 38995.0,
+      "price": 44280.0,
       "price_currency": "CAD"
     },
     {
@@ -1049,7 +805,7 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 84995.0,
+      "price": 83880.0,
       "price_currency": "CAD"
     },
     {
@@ -1064,17 +820,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford F-150 ",
-      "vin": "1FTFW6L83SFB16130",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/aeff00f820c8.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 84995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 GMC Sierra 1500 Denali | TWO TONE LEATHER | SUNROOF | NAVIGATION | 360 CAMERA | HEATED STEERING WHEEL + MORE!in Kelowna",
       "vin": "3GTUUGE88SG331341",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/2d30ed2b7ffc.html",
@@ -1082,7 +827,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 71995.0,
+      "price": 70780.0,
       "price_currency": "CAD"
     },
     {
@@ -1093,7 +838,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 71995.0,
+      "price": 69480.0,
       "price_currency": "CAD"
     },
     {
@@ -1119,17 +864,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Seltos ",
-      "vin": "KNDEUCAA6S7791888",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/cc74e405f59b.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 28995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 RAM 1500 Limited Longhorn | 3.0L TWIN TURBO | MAX TOW | FLAT TOW READY | MASSAGE FRONT SEATS + MORE!in Kelowna",
       "vin": "1C6SRFHP6SN556930",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/054e97289160.html",
@@ -1149,6 +883,17 @@
       "model": "1500",
       "condition": "used",
       "price": 62995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 RAM 1500 BIG HORN SPORT CREW CAB | PREFERRED PACKAGE 21Z | 3.0L TWIN TURBO | LEVEL 2 EQUIPMENT GROUP + MORE!in Kelowna",
+      "vin": "1C6SRFFP3SN649214",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/434b0fd97b79.html",
+      "year": 2025,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 59880.0,
       "price_currency": "CAD"
     },
     {
@@ -1240,6 +985,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Chrysler Grand Caravan SXT | 3.6L Pentastar V6 | 27E PKG | MOPAR INTERIOR PROTECTION PKG | 10 INCH DISPLAY | BLIND SPOTin Kelowna",
+      "vin": "2C4RC1ZG0TR163892",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/99f932d975ba.html",
+      "year": 2026,
+      "make": "Chrysler",
+      "model": "Grand Caravan",
+      "condition": "new",
+      "price": 49485.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Chrysler Grand Caravan ",
       "vin": "2C4RC1ZG0TR163892",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/5ea5d5616bc3.html",
@@ -1259,6 +1015,17 @@
       "model": "Pacifica Hybrid",
       "condition": "new",
       "price": 78839.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Dodge Durango SXT | 3.6L Pentastar V6 | 2BK PKG | BLACKTOP PKG | POWER SUNROOF | BLIND SPOT | NAVIGATION + MORE!in Kelowna",
+      "vin": "1C4RDJDG9TC272459",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/f3757114eca0.html",
+      "year": 2026,
+      "make": "Dodge",
+      "model": "Durango",
+      "condition": "new",
+      "price": 55530.0,
       "price_currency": "CAD"
     },
     {
@@ -1339,6 +1106,171 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Jeep Cherokee Limited | 1.6L Turbo Hybrid | 23G PKG | TECH PKG | PANORAMIC SUNROOF | NAV | CAPRI LEATHERETTE SEATSin Kelowna",
+      "vin": "3C4PJMB23TT191017",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/1e411da049c9.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 56893.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Limited | 1.6L Turbo Hybrid | 23G PKG | TRAILER TOW PKG | LEATHERETTE SEATS | POWER LIFTGATE + MORE!in Kelowna",
+      "vin": "3C4PJMB20TT228153",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/3f92f51ae4fe.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 56380.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredo | 1.6L TURBO HYBRID | 23F PKG | 10.25 INCH DISPLAY | BLIND SPOT & CROSS PATH DETECTION + MOREin Kelowna",
+      "vin": "3C4PJMB29TT216132",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/a325217c2011.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 48180.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee 85th Anniversary Edition | 1.6L Turbo Hybrid | 23J PKG | TRAILER TOW PKG | PANORAMIC SUNROOF + MORE!in Kelowna",
+      "vin": "3C4PJMB27TT257262",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/8bb8e5667d16.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 56751.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee 85th Anniversary Edition | 1.6L Turbo Hybrid | 23J PKG | TRAILER TOW PKG | PANORAMIC SUNROOF + MORE!in Kelowna",
+      "vin": "3C4PJMB25TT262671",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/c4221e28cb25.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 55952.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredo | 1.6L Turbo Hybrid | 23F PKG | 10.25 INCH DISPLAY | BLIND SPOT & CROSS PATH DETECTION + MOREin Kelowna",
+      "vin": "3C4PJMB29TT273513",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/2afbd84b7c5f.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47122.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredo | 1.6L Turbo Hybrid | 23F PKG | 10.25 INCH DISPLAY | BLIND SPOT | RAIN SENSING WIPERS + MORE!in Kelowna",
+      "vin": "3C4PJMB27TT273512",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/76ee7b5adc9b.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47122.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Limited | 1.6L Turbo Hybrid | 23G PKG | DUAL-PANE PANO SUNROOF | WIRELESS CHARGING PAD | LEATHERETTEin Kelowna",
+      "vin": "3C4PJMB21TT262344",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/0aa302fce5ef.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 53402.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee 85th Anniversary | 1.6L Turbo Hybrid | 23J | TRAILER TOW PKG | DUAL-PANE PANO SUNROOF | NAV + MORE!in Kelowna",
+      "vin": "3C4PJMB23TT262670",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/300abfc49188.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 56498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Limited | 1.6L Turbo Hybrid | 23G PKG | DUAL-PANE PANO SUNROOF | LEATHERETTE | WIRELESS CHARGING PADin Kelowna",
+      "vin": "3C4PJMB2XTT262343",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/9aad37e7a0dd.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 52956.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredo | 1.6L EP Turbo Hybrid | 23F PKGin Kelowna",
+      "vin": "3C4PJMB27TT269217",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/5bf82ae505d0.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 46717.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Laredo | 1.6L EP Turbo Hybrid | 23F PKG | BLIND SPOT | LANE KEEP ASSIST | TOUCH SCREEN + MORE!in Kelowna",
+      "vin": "3C4PJMB29TT269218",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/3c51f25516e9.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 47112.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee Overland | 1.6L EP Turbo Hybrid | 23Q | ADVANCED PRO TECH PKG | TRAILER TOW PKG | 360 CAMERA + MORE!in Kelowna",
+      "vin": "3C4PJMC26TT262340",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/8db8d68f6bf5.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 58658.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee 85th Anniversary Edition | 1.6L EP Turbo Hybrid | 23J | TRAILER TOW PKG | PANORAMIC SUNROOF + MORE!in Kelowna",
+      "vin": "3C4PJMB27TT262672",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/d9116ad7a961.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "new",
+      "price": 58375.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Cherokee 4X4 | 1.6L EP Turbo Hybrid | 23L PKGin Kelowna",
+      "vin": "3C4PJMA2XTT204931",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/e888086490ba.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Cherokee 4X4",
+      "condition": "new",
+      "price": 42385.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Jeep Cherokee ",
       "vin": "3C4PJMA2XTT204931",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/5970ac64d204.html",
@@ -1347,6 +1279,72 @@
       "model": "Cherokee",
       "condition": "new",
       "price": 42385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Compass North | 2.0L Turbocharged | 29J PKG | ALTITUDE SPECIAL EDITION | 10 INCH DISPLAY | BLIND SPOT + MOREin Kelowna",
+      "vin": "3C4NJDBN6TT202495",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/7a60b8953301.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 47385.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Compass North | 2.0L Turbocharged | 29J PKG | ALTITUDE SPECIAL EDITION | SUN & SOUND PKG | CONVENIENCE PKGin Kelowna",
+      "vin": "3C4NJDBNXTT212771",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/a5df47ceb739.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 51776.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Compass Trailhawk | 2.0L Turbocharged | 29E PKG | SUN/SOUND/NAV PKG | DRIVER ASSIST PKG | TRAILER TOW PKGin Kelowna",
+      "vin": "3C4NJDDN1TT208816",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/3389edc69a6f.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 53739.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Compass North | 2.0L Turbocharged | 29J PKG | ALTITUDE SPECIAL EDITION | SUN & SOUND PKG | CONVENIENCE PKGin Kelowna",
+      "vin": "3C4NJDBN1TT212772",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/7b0b6ac9fb21.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 50925.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Compass Limited | 2.0L TURBOCHARGED | 29T PKG | DRIVER ASSIST PKG | SUN/SOUND/NAV PKG | PANO SUNROOF + MORE!in Kelowna",
+      "vin": "3C4NJDCN8TT212766",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/3017194d92f5.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 46080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Compass North 4X4 | 2.0L TURBOCHARGED | 29J | ALTITUDE SPECIAL EDITION | CONVENIENCE PKG | NAV + MORE!in Kelowna",
+      "vin": "3C4NJDBNXTT212768",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/725489ccb085.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Compass",
+      "condition": "new",
+      "price": 43046.0,
       "price_currency": "CAD"
     },
     {
@@ -1361,6 +1359,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Jeep Gladiator Sport S | 3.6L Pentastar V6 | 24S PKG | BLACK FREEDOM 3 PIECE HARDTOP | 12 INCH DISPLAY + MORE!in Kelowna",
+      "vin": "1C6PJTAG5TL184323",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/46d588f98701.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "condition": "new",
+      "price": 53651.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Gladiator Sport S | 3.6L Pentastar V6 | 24S PKG | BLACK FREEDOM 3 PIECE HARDTOP | 12 INCH DISPLAY + MORE!in Kelowna",
+      "vin": "1C6PJTAG8TL154801",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/6eece00c6745.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Gladiator",
+      "condition": "new",
+      "price": 54144.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Jeep Gladiator ",
       "vin": "1C6PJTAG5TL184323",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/02078826f9cf.html",
@@ -1369,6 +1389,17 @@
       "model": "Gladiator",
       "condition": "new",
       "price": 53651.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Grand Cherokee Laredo | 3.6L Pentastar V6 | 8.4 INCH TOUCHSCREEN | BLIND SPOT W/ REAR CROSS PATH DETECTION + MORE!in Kelowna",
+      "vin": "1C4RJHAG5TC274022",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/692ea0e84901.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "condition": "new",
+      "price": 57135.0,
       "price_currency": "CAD"
     },
     {
@@ -1394,6 +1425,50 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Jeep Wrangler Sport 4X4 | 2.0L TURBOCHARGED | 22B PKG | 8 SPEED AUTO TRANSMISSION | NON VENTED STEEL HOOD + MORE!in Kelowna",
+      "vin": "1C4PJXAN3TW228705",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/9473f56fd0b4.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 39010.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Wrangler Sport 4X4 | 2.0L TURBOCHARGED | 22B PKG | 8 SPEED AUTO TRANSMISSION | BLACK FREEDOM HARD TOP + MORE!in Kelowna",
+      "vin": "1C4PJXAN3TW289892",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/6cc2a569ee01.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 47080.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Wrangler Sport S | 3.6L Pentastar V6 | 23S PKG | TECH PKG | CONVENIENCE PKG | FREEDOM HARDTOP | LED LIGHTSin Kelowna",
+      "vin": "1C4PJXAGXTW291236",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/0cb9ee948c06.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 52112.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Jeep Wrangler Sport S | 3.6L Pentastar V6 | 23S PKG | TRAILER TOW PKG | CONVENIENCE PKG | SAFETY PKG | HARDTOPin Kelowna",
+      "vin": "1C4PJXAG9TW291552",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/a24a393aac93.html",
+      "year": 2026,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "condition": "new",
+      "price": 54723.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Jeep Wrangler ",
       "vin": "1C4PJXAN3TW228705",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/c1f29534cf43.html",
@@ -1402,6 +1477,17 @@
       "model": "Wrangler",
       "condition": "new",
       "price": 39010.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 RAM 1500 Tungstenin Kelowna",
+      "vin": "1C6SRFKP7TN297990",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/5865842ef407.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "used",
+      "price": 92995.0,
       "price_currency": "CAD"
     },
     {
@@ -1435,6 +1521,28 @@
       "model": "3500",
       "condition": "new",
       "price": 99327.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chrysler Pacifica Select | 3.6L Pentastar V6 | 27L PKG | LEATHERETTE SEATS | TOUCHSCREEN | BLIND SPOT + MORE!in Kelowna",
+      "vin": "2C4RC1BG7VR551621",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/e65bea8deda9.html",
+      "year": 2027,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "new",
+      "price": 52496.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Chrysler Pacifica Selectin Kelowna",
+      "vin": "2C4RC3BG6VR622352",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/ade082846e46.html",
+      "year": 2027,
+      "make": "Chrysler",
+      "model": "Pacifica",
+      "condition": "new",
+      "price": 58590.0,
       "price_currency": "CAD"
     },
     {
