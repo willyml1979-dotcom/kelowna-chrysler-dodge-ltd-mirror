@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Chrysler Dodge Ltd",
-  "generated_at": "2026-11-18T06:10:53",
-  "vehicle_count": 145,
+  "generated_at": "2026-11-18T06:28:31",
+  "vehicle_count": 146,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1247,6 +1247,17 @@
       "model": "3500",
       "condition": "new",
       "price": 100995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 RAM 3500 Limitedin Kelowna",
+      "vin": "3C63R3SLXTG212004",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/0f72f463bfee.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "3500",
+      "condition": "new",
+      "price": 118660.0,
       "price_currency": "CAD"
     },
     {
