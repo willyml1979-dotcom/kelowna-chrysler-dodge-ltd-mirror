@@ -1,7 +1,7 @@
 {
   "dealership": "Kelowna Chrysler Dodge Ltd",
-  "generated_at": "2026-11-18T06:28:31",
-  "vehicle_count": 146,
+  "generated_at": "2026-11-18T14:39:08",
+  "vehicle_count": 145,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -46,6 +46,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Honda Accord Sedan 2019 for salein Kelowna",
+      "vin": "1HGCV1F51KA805379",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/0b582bd56e68.html",
+      "condition": "used",
+      "price": 17670.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Wrangler 2019 for salein Kelowna",
       "vin": "1C4HJXDG0KW633713",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/a15e05297b04.html",
@@ -78,14 +86,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Jeep Wrangler 2020 for salein Kelowna",
-      "vin": "1C4GJXAG0LW293710",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/9d11a0ab2909.html",
-      "condition": "used",
-      "price": 47999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Nissan Kicks 2020 for salein Kelowna",
       "vin": "3N1CP5DV4LL541395",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/a0a10e5abef8.html",
@@ -99,6 +99,14 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/1ca7b9ed75e3.html",
       "condition": "used",
       "price": 28995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2021 for salein Kelowna",
+      "vin": "1GTU9EET1MZ182428",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/6f481f23664d.html",
+      "condition": "used",
+      "price": 41760.0,
       "price_currency": "CAD"
     },
     {
@@ -150,11 +158,27 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge Challenger 2023 for salein Kelowna",
+      "vin": "2C3CDZC97PH601416",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/ef3f1558f5a7.html",
+      "condition": "used",
+      "price": 98940.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Ford F-150 2023 for salein Kelowna",
       "vin": "1FTEW1EP4PFC97961",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/660f1079b774.html",
       "condition": "used",
       "price": 53870.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Venue 2023 for salein Kelowna",
+      "vin": "KMHRC8A38PU230857",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/2f7e2c64711c.html",
+      "condition": "used",
+      "price": 19870.0,
       "price_currency": "CAD"
     },
     {
@@ -174,6 +198,22 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 1500 Classic 2023 for salein Kelowna",
+      "vin": "1C6RR7LT9PS581497",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/a32f4800009f.html",
+      "condition": "used",
+      "price": 38840.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 2500 2023 for salein Kelowna",
+      "vin": "3C6UR5EL4PG569275",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/338c9da970bc.html",
+      "condition": "used",
+      "price": 76980.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Dodge Durango 2024 for salein Kelowna",
       "vin": "1C4SDJCT4RC150004",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/613e0ebe23af.html",
@@ -187,6 +227,14 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/78eddb5de82e.html",
       "condition": "used",
       "price": 32870.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Santa Fe 2024 for salein Kelowna",
+      "vin": "5NMP3DGL4RH026482",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/81e44b922095.html",
+      "condition": "used",
+      "price": 39870.0,
       "price_currency": "CAD"
     },
     {
@@ -230,6 +278,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Chevrolet Traverse 2025 for salein Kelowna",
+      "vin": "1GNEVGRS5SJ228438",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/a4cb9fabe935.html",
+      "condition": "used",
+      "price": 45887.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chrysler Pacifica 2025 for salein Kelowna",
       "vin": "2C4RC1GGXSR533005",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/80116b17ada9.html",
@@ -259,6 +315,14 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/1c468308e857.html",
       "condition": "used",
       "price": 70780.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2025 for salein Kelowna",
+      "vin": "KMHLM4DG2SU006440",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/a814ccb37978.html",
+      "condition": "used",
+      "price": 24840.0,
       "price_currency": "CAD"
     },
     {
@@ -315,6 +379,14 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/3d04fc2bc78e.html",
       "condition": "used",
       "price": 41995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2026 for salein Kelowna",
+      "vin": "1C4PJXFN1TW192599",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/ff657ec0c65b.html",
+      "condition": "used",
+      "price": 54995.0,
       "price_currency": "CAD"
     },
     {
@@ -513,14 +585,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Honda Accord Sedan ",
-      "vin": "1HGCV1F51KA805379",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/0b582bd56e68.html",
+      "name": "2019 BMW X5 Xdrive50i | M SPORT APPEARANCE PKG | NAVIGATION | PANO SUNROOF | HEATED/COOLED CUP HOLDERS + MORE!in Kelowna",
+      "vin": "5UXJU2C53KLN66701",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/4c80e6b3aec3.html",
       "year": 2019,
-      "make": "Honda",
-      "model": "Accord Sedan",
+      "make": "BMW",
+      "model": "X5",
       "condition": "used",
-      "price": 17995.0,
+      "price": 43995.0,
       "price_currency": "CAD"
     },
     {
@@ -543,28 +615,6 @@
       "model": "Challenger",
       "condition": "used",
       "price": 97870.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Jeep Wrangler Sport Sin Kelowna",
-      "vin": "1C4GJXAG0LW293710",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/c2f8ae415359.html",
-      "year": 2020,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 47999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 GMC Sierra 1500 ",
-      "vin": "1GTU9EET1MZ182428",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/6f481f23664d.html",
-      "year": 2021,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 41995.0,
       "price_currency": "CAD"
     },
     {
@@ -619,18 +669,7 @@
       "make": "Dodge",
       "model": "Challenger",
       "condition": "used",
-      "price": 99995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Dodge Challenger ",
-      "vin": "2C3CDZC97PH601416",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/ef3f1558f5a7.html",
-      "year": 2023,
-      "make": "Dodge",
-      "model": "Challenger",
-      "condition": "used",
-      "price": 99995.0,
+      "price": 98940.0,
       "price_currency": "CAD"
     },
     {
@@ -645,17 +684,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Venue ",
-      "vin": "KMHRC8A38PU230857",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/2f7e2c64711c.html",
-      "year": 2023,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "used",
-      "price": 19995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Jeep Grand Cherokee 4xe Summit Reservein Kelowna",
       "vin": "1C4RJYE6XP8784120",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/f02aa4c3acf6.html",
@@ -667,17 +695,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 RAM 1500 Classic ",
-      "vin": "1C6RR7LT9PS581497",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/a32f4800009f.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "1500 Classic",
-      "condition": "used",
-      "price": 38999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 RAM 2500 Big Horn | 6.7L CUMMINS | SNOW CHIEF PKG | LEVEL 1 PKG | SPORT APPEARANCE PKG | NAV + MORE!in Kelowna",
       "vin": "3C6UR5JL3PG631240",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/9fe7915bde4c.html",
@@ -685,7 +702,7 @@
       "make": "RAM",
       "model": "2500",
       "condition": "used",
-      "price": 61995.0,
+      "price": 60880.0,
       "price_currency": "CAD"
     },
     {
@@ -696,18 +713,7 @@
       "make": "RAM",
       "model": "2500",
       "condition": "used",
-      "price": 77995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 RAM 2500 ",
-      "vin": "3C6UR5EL4PG569275",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/338c9da970bc.html",
-      "year": 2023,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "used",
-      "price": 77995.0,
+      "price": 76980.0,
       "price_currency": "CAD"
     },
     {
@@ -763,17 +769,6 @@
       "model": "F-150",
       "condition": "used",
       "price": 53995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Santa Fe ",
-      "vin": "5NMP3DGL4RH026482",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/81e44b922095.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Santa Fe",
-      "condition": "used",
-      "price": 39995.0,
       "price_currency": "CAD"
     },
     {
@@ -843,25 +838,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chevrolet Traverse LTin Kelowna",
+      "name": "2025 Chevrolet Traverse LT AWD | 360 CAMERA | 2.5L TURBO | 7 PASSENGER | PUSH START + MORE!in Kelowna",
       "vin": "1GNEVGRS5SJ228438",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/0c2067d86d08.html",
       "year": 2025,
       "make": "Chevrolet",
       "model": "Traverse",
       "condition": "used",
-      "price": 48995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Chevrolet Traverse ",
-      "vin": "1GNEVGRS5SJ228438",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/a4cb9fabe935.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "condition": "used",
-      "price": 48995.0,
+      "price": 45887.0,
       "price_currency": "CAD"
     },
     {
@@ -917,17 +901,6 @@
       "model": "Sierra 1500",
       "condition": "used",
       "price": 69480.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Elantra ",
-      "vin": "KMHLM4DG2SU006440",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/a814ccb37978.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 24995.0,
       "price_currency": "CAD"
     },
     {
@@ -997,31 +970,20 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Jeep Wrangler Rubiconin Kelowna",
+      "name": "2026 Jeep Wrangler Rubicon | PREFERRED PACKAGE 22R | MODULAR HARDTOP | 8-SPEED AUTOMATIC | PUSH START + MORE!in Kelowna",
       "vin": "1C4PJXFN7TW191621",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/f5c02c744897.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
       "condition": "used",
-      "price": 54995.0,
+      "price": 53780.0,
       "price_currency": "CAD"
     },
     {
       "name": "2026 Jeep Wrangler Rubiconin Kelowna",
       "vin": "1C4PJXFN1TW192599",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/21d14d137e61.html",
-      "year": 2026,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 54995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Jeep Wrangler ",
-      "vin": "1C4PJXFN7TW191621",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/ff657ec0c65b.html",
       "year": 2026,
       "make": "Jeep",
       "model": "Wrangler",
