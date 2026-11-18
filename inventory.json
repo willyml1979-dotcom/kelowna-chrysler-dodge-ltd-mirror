@@ -1,6 +1,6 @@
 {
   "dealership": "Kelowna Chrysler Dodge Ltd",
-  "generated_at": "2026-11-17T20:39:39",
+  "generated_at": "2026-11-17T20:50:06",
   "vehicle_count": 145,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -246,6 +246,54 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Dodge Hornet 2024 for salein Kelowna",
+      "vin": "ZACPDFCWXR3A35505",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/10b79caf1b78.html",
+      "condition": "new",
+      "price": 38499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Hornet Hybrid 2024 for salein Kelowna",
+      "vin": "ZACPDFCW4R3A36519",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/6b83b2497856.html",
+      "condition": "new",
+      "price": 37499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 4 Door 2024 for salein Kelowna",
+      "vin": "1C4PJXDG3RW360188",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/2e0f7348e924.html",
+      "condition": "new",
+      "price": 58882.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2024 for salein Kelowna",
+      "vin": "3C63R3MLXRG326221",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/7d53e93f9596.html",
+      "condition": "new",
+      "price": 99999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 1500 2025 for salein Kelowna",
+      "vin": "1C6SRFGP3SN675813",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/d16c52e4953d.html",
+      "condition": "new",
+      "price": 68995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM ProMaster Cargo Van 2025 for salein Kelowna",
+      "vin": "3C6MRVXGXSE564327",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/e54fb07d53ce.html",
+      "condition": "new",
+      "price": 69028.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Chrysler Grand Caravan 2026 for salein Kelowna",
       "vin": "2C4RC1ZG0TR163892",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/5ea5d5616bc3.html",
@@ -363,6 +411,14 @@
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/e188d1fe0df3.html",
       "condition": "new",
       "price": 122612.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2027 for salein Kelowna",
+      "vin": "3C63RRPL9VG377962",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/fe9135eafb9e.html",
+      "condition": "new",
+      "price": 125022.0,
       "price_currency": "CAD"
     },
     {
@@ -707,28 +763,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Dodge Hornet ",
-      "vin": "ZACPDFCW1R3A36476",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/10b79caf1b78.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Hornet",
-      "condition": "new",
-      "price": 37999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Dodge Hornet Hybrid ",
-      "vin": "ZACPDFCW4R3A36519",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/6b83b2497856.html",
-      "year": 2024,
-      "make": "Dodge",
-      "model": "Hornet Hybrid",
-      "condition": "new",
-      "price": 37499.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Ford F-150 XLT | 2.7L ECOBOOST | BLACK APPEARANCE PKG | MOBILE OFFICE PKG | TRAILER BREAK CONTROL + MORE!in Kelowna",
       "vin": "1FTEW3LP7RKE57064",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/d4d72bdb84b2.html",
@@ -773,17 +807,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Wrangler 4 Door ",
-      "vin": "1C4PJXDG3RW360188",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/2e0f7348e924.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "new",
-      "price": 58882.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Land Rover Land Rover Discovery Dynamic Se | 7 SEATER | DUAL SUNROOFS | NAVI | 360 CAMERA | BLIND SPOT | OFF ROAD CAMERA + MORE!in Kelowna",
       "vin": "SALRL2EX1R2497344",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/used/c331b4151f56.html",
@@ -809,17 +832,6 @@
       "name": "New 2024 RAM 3500 Laramie | 6.7L Cummins Diesel | 6 SPEED AISIN | 21H | LEATHER | SAFETY PKG | LEVEL B EQUIPMENT PKGin Kelowna",
       "vin": "3C63R3MLXRG326221",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/e21022184ffb.html",
-      "year": 2024,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 99999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 RAM 3500 ",
-      "vin": "3C63R3MLXRG326221",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/7d53e93f9596.html",
       "year": 2024,
       "make": "RAM",
       "model": "3500",
@@ -968,28 +980,6 @@
       "model": "ProMaster",
       "condition": "used",
       "price": 54770.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 RAM 1500 ",
-      "vin": "1C6SRFGP3SN675813",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/d16c52e4953d.html",
-      "year": 2025,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 68995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 RAM ProMaster Cargo Van ",
-      "vin": "3C6MRVXGXSE564327",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/e54fb07d53ce.html",
-      "year": 2025,
-      "make": "RAM",
-      "model": "ProMaster",
-      "condition": "new",
-      "price": 69028.0,
       "price_currency": "CAD"
     },
     {
@@ -1180,6 +1170,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 RAM 1500 Rebel | 21W | LEATHER | TECH PKG | TRAILER TOW II PKG | ADVANCED SAFETY II PKG | PANO SUNROOF + MOREin Kelowna",
+      "vin": "1C6SRFLP7TN312597",
+      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/68e37d405750.html",
+      "year": 2026,
+      "make": "RAM",
+      "model": "1500",
+      "condition": "new",
+      "price": 91508.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 RAM 1500 Limited | 22M | TOWING TECH PKG | TRAILER TOW PKG | OFF ROAD PKG | LEVEL A EQUIPMENT | PANO SUNROOFin Kelowna",
       "vin": "1C6SRFPP1TN435645",
       "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/92cc0d73fa30.html",
@@ -1265,17 +1266,6 @@
       "model": "3500",
       "condition": "new",
       "price": 125635.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 RAM 3500 Big Horn Night Edition | 6.7L Cummins Diesel | 8 SPD AUTO | MAX TOW PKG | LEVEL 2 PLUS PKG + MORE!in Kelowna",
-      "vin": "3C63RRHL6TG357289",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/2c367dacf540.html",
-      "year": 2026,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 99327.0,
       "price_currency": "CAD"
     },
     {
@@ -1450,17 +1440,6 @@
       "model": "3500",
       "condition": "new",
       "price": 123262.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 RAM 3500 ",
-      "vin": "3C63R3CL5VG377959",
-      "url": "https://willyml1979-dotcom.github.io/kelowna-chrysler-dodge-ltd-mirror/new/fe9135eafb9e.html",
-      "year": 2027,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "new",
-      "price": 94500.0,
       "price_currency": "CAD"
     }
   ]
